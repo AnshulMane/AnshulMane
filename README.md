@@ -8,7 +8,7 @@ I’m excited about leveraging data to solve real-world problems and continually
 # 📚 About Me
 
  # 🛠️ Skills
-Programming Languages: Python and SQL  
+Programming Languages: Python, Java and SQL  
 Data Analysis & Visualization: Tableau, Power BI, MS Excel  
 Business Intelligence: MS PowerPoint
 
