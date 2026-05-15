@@ -1,22 +1,26 @@
-## 👋 Hello, I'm Anshul Mane!  
-Welcome to my GitHub profile! I’m an aspiring data analyst and computer engineering student. Currently pursuing BTech in Computer Engineering, I’m skilled in **Python, SQL,** and data visualization tools like **Tableau** and **Power BI**. 📊🔍 My passion lies in translating complex data into actionable insights and driving strategic decisions. 🚀
+# Anshul Mane
 
-## 📚 About Me
-**🛠️ Skills** 
-**Programming Languages:** Python and SQL  
-**Data Analysis & Visualization:** Tableau, Power BI, MS Excel  
-**Business Intelligence:** MS PowerPoint  
+I build AI systems that do real work — not demos.
 
-**🔍 What I Do**  
-I excel in Analyzing and interpreting data to provide actionable insights
-Creating visualizations that effectively communicate findings
-Using data to drive business strategies and decisions
-Designing and developing software solutions to support data analysis  
+Currently focused on Generative AI and RAG pipelines for enterprise use cases,
+particularly in finance. I'm interested in the gap between what LLMs can do in
+a notebook and what they can actually do inside a business.
 
-**🚀 Current Focus**
-Exploring advanced data analysis techniques and innovative software solutions to enhance business performance.
+**Stack I work with:** Python · LangChain · LLMs · ChromaDB · Ollama · Streamlit · SQL
 
-**📫 Connect with Me**  
-**LinkedIn:** www.linkedin.com/in/anshulmane  
-**Email:** anshulmane17@gmail.com  
-Let’s connect and explore how we can turn data into impactful results!
+---
+
+## Projects
+
+**ASTOR — Private Banking AI Copilot**
+Intelligence platform for private banking built on local LLMs, ChromaDB vector
+search, and LangChain retrieval pipelines. Designed with the operational
+constraints of real enterprise environments in mind.
+
+**Historical Figures RAG Chatbot**
+Contextual Q&A system using semantic search and vector embeddings — built to
+explore how retrieval quality affects LLM reasoning.
+
+---
+
+[LinkedIn](https://www.linkedin.com/in/anshulmane) · anshulmane17@gmail.com
